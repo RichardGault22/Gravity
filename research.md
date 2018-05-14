@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Download
-permalink: /download/
+title: Research
+permalink: /research/
 
-tagline: "Loved it? Download Gravity"
+tagline: "Here is my reserch overview"
 ---
 
 <br>
