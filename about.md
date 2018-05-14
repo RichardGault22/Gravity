@@ -9,7 +9,7 @@ permalink: /about/
 <p>Oct 2013 - Dec 2017: PhD in Computational modelling of tinnitus, Ulster University.</p>
 <p>Oct 2009 - July 2013: MSci (1st Class, Hons) Mathematics and Computer Science, Queen's University Belfast.</p>
 <br>
-<h2>Scholorships</h2>
+<h2>Scholarships</h2>
 <p>(2016)Action on Hearing Loss Travel Scholarship: Tinnitus Research Initiative (TRI) 2016 Conference</p>
 <p>(2013-2016) Department of Education and Learning (DEL) NI PhD Studentship, Ulster University</p>
 <br>
