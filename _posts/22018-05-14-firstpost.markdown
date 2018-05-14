@@ -2,7 +2,7 @@
 layout: post
 title:  "First Test post"
 date:   2018-05-14 19:45:31 +0530
-categories: "code"
+categories: code
 author: "Richard Gault"
 ---
 Here is the first post
