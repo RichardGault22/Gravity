@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: Design
-permalink: /design/
+title: Teaching
+permalink: /Teaching/
 category: "Teaching"
 tagline: "Here is a list of my teaching."
 ---
