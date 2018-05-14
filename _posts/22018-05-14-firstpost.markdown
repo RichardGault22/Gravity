@@ -8,6 +8,6 @@ Presentation given at Computing at Schools (CAS) NI conference 2015: "Not so har
 
 The presentation can be found [here][CAS-pres]. The files used in the examples can be accessed [here][CAS-docs].
 
-[CAS-pres]: https://www.slideshare.net/richardgault/baa-talk
-[CAS-docs]: https://www.slideshare.net/richardgault/baa-talk
+[CAS-pres]: https://www.slideshare.net/richardgault/not-so-hard-hardware
+[CAS-docs]: https://github.com/RichardGault22/CAS_NI_RaspberryPi-GPIO
 
