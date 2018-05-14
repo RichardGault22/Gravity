@@ -7,7 +7,7 @@ category: "code"
 ---
 
 <h2>Computational Modelling of tinnitus<h2>
-The code to implement the Central Auditory Processing (CAP) Model for tinnitus presented in Gault et al. 2018 can be found [here][CAP-code].
+The code to implement the Central Auditory Processing (CAP) Model for tinnitus presented in Gault et al. 2018 can be found [here][Percept-code].
 
 The code to implement the perceptual models of tinnitus perception outlined in Gault et al. 2018 can be found [here][Percept-code].
 
