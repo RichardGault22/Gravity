@@ -1,8 +1,13 @@
 ---
 layout: post
-title:  "First Test post"
-date:   2018-05-14 19:45:31 +0530
-categories: code
-author: "Richard Gault"
+title:  "Computing at Schools (CAS) NI Conference 2015"
+date:   2015-06-23 
+categories: presentations
 ---
-Here is the first post
+Presentation given at Computing at Schools (CAS) NI conference 2015: "Not so hard “hardware”-Using Raspberry Pi GPIO pins with Scratch.
+
+The presentation can be found [here][CAS-pres]. The files used in the examples can be accessed [here][CAS-docs].
+
+[CAS-pres]: https://www.slideshare.net/richardgault/baa-talk
+[CAS-docs]: https://www.slideshare.net/richardgault/baa-talk
+
