@@ -3,7 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 
-tagline: "Here is an overview of my reserch"
+#tagline: "Here is an overview of my reserch"
 ---
 
 ---
