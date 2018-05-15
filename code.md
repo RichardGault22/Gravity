@@ -2,7 +2,7 @@
 layout: archive
 title: Code
 permalink: /code/
-tagline: "Code for all published work can be found below."
+#tagline: "Code for all published work can be found below."
 category: "code"
 ---
 
