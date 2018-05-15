@@ -2,6 +2,7 @@
 layout: page
 title : About
 permalink: /about/
+category: "About"
 ---
 
 <h2>Background</h2>
