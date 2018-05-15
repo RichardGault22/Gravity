@@ -12,7 +12,7 @@ Oct 2013 - Dec 2017: PhD in Computational modelling of tinnitus, Ulster Universi
 Oct 2009 - July 2013: MSci (1st Class, Hons) Mathematics and Computer Science, Queen's University Belfast.
 <br>
 
-<h2>Affiliations<\h2>
+<h2>Affiliations</h2>
 Associate Fellow of the Higher Education Academy (HEA) (2015-pres).
 
 Faculty board member of the XII International Tinnitus Seminar and 1st World Tinnitus Congress (2017).
