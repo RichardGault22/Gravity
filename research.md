@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
-category: research
+category: "research"
 
 tagline: ""
 ---
