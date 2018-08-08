@@ -7,11 +7,11 @@ category: "About"
 ---
 
 <h2>Background</h2>
-Dec 2016 - pres: Research Fellow in Computational Neuroscience, Nottingham Trent University.
+<h5>Dec 2016 - pres: Research Fellow in Computational Neuroscience, Nottingham Trent University.<h5>
 
-Oct 2013 - Dec 2017: PhD in Computational modelling of tinnitus, Ulster University.
+<h5>Oct 2013 - Dec 2017: PhD in Computational modelling of tinnitus, Ulster University.<h5>
 
-Oct 2009 - July 2013: MSci (1st Class, Hons) Mathematics and Computer Science, Queen's University Belfast.
+<h5>Oct 2009 - July 2013: MSci (1st Class, Hons) Mathematics and Computer Science, Queen's University Belfast.<h5>
 <br>
 
 <h2>Affiliations</h2>
