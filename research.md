@@ -9,6 +9,7 @@ tagline: ""
 ---
 <h2>Computational Modelling of Tinnitus</h2>
 <h4>Related publications</h4>
+<h5>Gault, R; McGinnity, TM and Coleman, SA, “A Computational Model of Thalamocortical Dysrhythmia in Tinnitus Sufferers." In press, 2018.</h5>
 <h5>Gault, R; McGinnity, TM and Coleman, SA, “Modelling the Generation of Tinnitus in a Silent Environment." In: International Joint Conference on Neural Networks (IJCNN), Vancouver, IEEE, 2016.</h5>
 <h5>Gault, R; McGinnity, TM and Coleman, SA, “Computational model of tinnitus from the cochlea to the dorsal cochlea nucleus”, Tinnitus Research Initiative (TRI), 2016.</h5>
 <h5>Gault, R; McGinnity, TM and Coleman, SA, “Framework for a minimalist tinnitus graph built from MEG recordings. In: Annual MEG UK Conference (MEGUK15), 2015.</h5>
