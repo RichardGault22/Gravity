@@ -16,6 +16,7 @@ url: "https://richardgault22.github.io" # the base hostname & protocol for your 
 github_username:  RichardGault22
 google_scholar: Richard Gault
 paginate: 5
+timezone: Europe/London
 
 gems: [jekyll-paginate, kramdown]
 # Build settings
