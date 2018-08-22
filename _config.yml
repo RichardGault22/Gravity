@@ -9,10 +9,10 @@ plugins:
 # Site settings
 title: Richard Gault
 email: richard.gault22@gmail.com
-description: Research Fellow in Computational Neuroscience
+description: Lecturer (Education) in Computer Science
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://richardgault22.github.io" # the base hostname & protocol for your site
-#twitter_username: hemang_kumar
+
 github_username:  RichardGault22
 google_scholar: Richard Gault
 paginate: 5
