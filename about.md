@@ -25,5 +25,5 @@ category: "About"
 <h2>Awards</h2>
 <h4>(2015) Best Oral Presentation: Annual Translational Medicine (TMED7) Conference.</h4>
 <h4>(2014) Best Poster Presentation: Irish Machine Vision and Image Processing (IMVIP) Conference.</h4>
-<h4>(2013) Kainos Software Engineering Award: Awarded to the student achieving the highest average marks in final Honours examination taking Joint Honours in Computer Science and a mathematical subject at Queen’s University of Belfas.</h4>
+<h4>(2013) Kainos Software Engineering Award: Awarded to the student achieving the highest average marks in final Honours examination taking Joint Honours in Computer Science and a mathematical subject at Queen’s University of Belfast.</h4>
 <h4>(2013) Fidessa Award: The highest overall grade in the MSci/MEng module Algorithms: Analysis and Applications at Queen’s University of Belfast.</h4>
