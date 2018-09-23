@@ -7,7 +7,13 @@ category: "About"
 ---
 
 <h2>Background</h2>
-<h4>Aug 2018 - pres: Lecturer (Education) in Computer Science, Queen's University, Belfast.</h4>
+
+-Aug 2018 - pres: [Lecturer (Education) in Computer Science, Queen's University, Belfast].
+
+
+[Lecturer (Education) in Computer Science, Queen's University, Belfast]: https://pure.qub.ac.uk/portal/en/persons/richard-gault(33eb60d1-43ca-4712-9c12-13a2653d4ff2).html
+
+
 <h4>Dec 2016 - Aug 2018: Research Fellow in Computational Neuroscience, Nottingham Trent University.</h4>
 <h4>Oct 2013 - Dec 2017: PhD in Computational modelling of tinnitus, Ulster University.</h4>
 <h4>Oct 2009 - July 2013: MSci (1st Class, Hons) Mathematics and Computer Science, Queen's University Belfast.</h4>
