@@ -6,10 +6,16 @@ category: "Teaching"
 tagline: ""
 ---
 
-<h4> CSC1020: Programming</h4>
+<h2> CSC1020: Programming</h2>
   - Introduction to core programming concepts. Course Implemented in Java.
   
-<h4> CSC2047: Theory of Computation </h4>
+<h2> CSC2047: Theory of Computation </h2>
   - Exploration of the core concepts of Computation Theory.
-  
-<h4> Stage 1 Coordinator </h4>
+  <h3> Supplementary Resources </h3>
+  The core texts for this module include
+  - Introduction to the Theory of Computation Third edition (International edition), Author: Michael Sipser.
+  - The Nature of Computation by Christopher Moore and Stephan Mertens, Oxford University  Press
+  <h4> 0. Introduction </h4>
+  - The Turing Tumble and demonstrations of the Turing Tumble
+  - Module Specification
+  - Academic & student affairs-> Examinations & Assessment
