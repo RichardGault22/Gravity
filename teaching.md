@@ -24,8 +24,16 @@ category: "Teaching"
   - "The Nature of Computation", Christopher Moore and Stephan Mertens, Oxford University  Press
   <h4> 0. Introduction </h4>
   
-  - The Turing Tumble and demonstrations of the Turing Tumble
+  - The [Turing Tumble] and [demonstrations] of the Turing Tumble
   
-  - Module Specification
+  [Turing Tumble]: https://www.turingtumble.com/
+  [demonstrations]: https://www.youtube.com/watch?v=mUciv8S33BQ&feature=youtu.be&t=47
   
-  - Academic & student affairs-> Examinations & Assessment
+  
+  - [Module Specification] and search for CSC2047.
+  
+  [Module Specification]: https://www.qub.ac.uk/sites/ModuleInformation/#content
+  
+  - Academic & student affairs-> [Examinations & Assessment] and see "Conceptual Equivalents Scale
+  
+  [Examinations & Assessment]: https://www.qub.ac.uk/directorates/AcademicStudentAffairs/AcademicAffairs/ExaminationsandAssessment/MarkSchemesandClassifications/
