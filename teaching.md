@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: page
 title: Teaching
 permalink: /teaching/
 category: "Teaching"
