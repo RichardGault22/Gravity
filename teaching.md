@@ -19,5 +19,7 @@ tagline: ""
   - The Nature of Computation by Christopher Moore and Stephan Mertens, Oxford University  Press
   <h4> 0. Introduction </h4>
   - The Turing Tumble and demonstrations of the Turing Tumble
+  
   - Module Specification
+  
   - Academic & student affairs-> Examinations & Assessment
