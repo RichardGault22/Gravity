@@ -34,6 +34,6 @@ category: "Teaching"
   
   [Module Specification]: https://www.qub.ac.uk/sites/ModuleInformation/#content
   
-  - Academic & student affairs-> [Examinations & Assessment] and see "Conceptual Equivalents Scale"
+  - Academic & student affairs-> [Examinations & Assessment] and see "Undergraduate Conceptual Equivalents Scale"
   
   [Examinations & Assessment]: https://www.qub.ac.uk/directorates/AcademicStudentAffairs/AcademicAffairs/ExaminationsandAssessment/MarkSchemesandClassifications/
