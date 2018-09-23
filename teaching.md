@@ -13,7 +13,9 @@ tagline: ""
   - Exploration of the core concepts of Computation Theory.
   <h3> Supplementary Resources </h3>
   The core texts for this module include
+  
   - Introduction to the Theory of Computation Third edition (International edition), Author: Michael Sipser.
+  
   - The Nature of Computation by Christopher Moore and Stephan Mertens, Oxford University  Press
   <h4> 0. Introduction </h4>
   - The Turing Tumble and demonstrations of the Turing Tumble
