@@ -31,6 +31,7 @@ doi: 10.1109/TNSRE.2018.2863740. [CiteScore = 5.14, Impact Factor= 3.972, SNIP =
 
 ---
 <h4>Additional publications</h4>
+
 - **Gault, R**; McGinnity, TM and Coleman, SA “Application of Similarity Measures to Magnetoencephalography data." In: Irish Machine Vision and Image Processing 2014.
 
 - **Gault, R**; McGinnity, TM and Coleman, SA, “Investigation into auditory processing of pitch and volume using Magnetoencephalography (MEG). In: Annual Translational Medicine Conference (TMED6), 2014.
