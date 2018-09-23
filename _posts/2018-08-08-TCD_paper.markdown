@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "A Computational Model of Thalamocortical Dysrhythmia in Tinnitus Sufferers"
+title:  "A Computational Model of Thalamocortical Dysrhythmia in People with Tinnitus"
 date:   2018-08-08
 categories: research
 ---
-"A Computational Model of Thalamocortical Dysrhythmia in Tinnitus Sufferers" shows the necessity for adaptation in the ascending and descending auditory pathways of people with tinnitus.
+"A Computational Model of Thalamocortical Dysrhythmia in People with Tinnitus" shows the necessity for adaptation in the ascending and descending auditory pathways of people with tinnitus.
 
-The paper can be found [here]. Full citation to be included shortly.
-
+The paper can be found [here]. 
 [here]: https://ieeexplore.ieee.org/document/8426011/
