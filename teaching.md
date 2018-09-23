@@ -2,8 +2,11 @@
 layout: page
 title: Teaching
 permalink: /teaching/
-category: "Teaching"
+
 tagline: ""
+category: "Teaching"
+---
+
 ---
 
 <h2> CSC1020: Programming</h2>
