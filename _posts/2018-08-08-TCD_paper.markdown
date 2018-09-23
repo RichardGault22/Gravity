@@ -7,4 +7,5 @@ categories: research
 "A Computational Model of Thalamocortical Dysrhythmia in People with Tinnitus" shows the necessity for adaptation in the ascending and descending auditory pathways of people with tinnitus.
 
 The paper can be found [here]. 
+
 [here]: https://ieeexplore.ieee.org/document/8426011/
