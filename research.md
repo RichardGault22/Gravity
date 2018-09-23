@@ -13,7 +13,7 @@ category: "research"
 <h4>Related publications</h4>
 
   - **Gault, R**; McGinnity, TM and Coleman, SA, "A Computational Model of Thalamocortical Dysrhythmia in People With Tinnitus," in IEEE Transactions on Neural Systems and Rehabilitation Engineering, vol. 26, no. 9, pp. 1845-1857, Sept. 2018.
-  doi: 10.1109/TNSRE.2018.2863740. [CiteScore = 5.14, Impact Factor= 3.972, SNIP = 2.004, SJR = 1.152] URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8426011&isnumber=8456910 
+  doi: 10.1109/TNSRE.2018.2863740. {CiteScore = 5.14, Impact Factor= 3.972, SNIP = 2.004, SJR = 1.152} view [here] [here]: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8426011&isnumber=8456910 
 
   - **Gault, R**; McGinnity, TM and Coleman, SA, “Modelling the Generation of Tinnitus in a Silent Environment." In: International Joint Conference on Neural Networks (IJCNN), Vancouver, IEEE, 2016.
 
