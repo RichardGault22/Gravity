@@ -22,6 +22,7 @@ category: "About"
 <br>
 
 <h2>Affiliations</h2>
+
 - Associate Fellow of the Higher Education Academy (HEA) (2015-pres).
 
 - Faculty board member of the XII International Tinnitus Seminar and 1st World Tinnitus Congress (2017).
@@ -29,11 +30,13 @@ category: "About"
 - IEEE student member (2016-17).
 <br>
 <h2>Scholarships</h2>
+
 - (2016)Action on Hearing Loss Travel Scholarship: Tinnitus Research Initiative (TRI) 2016 Conference.
 
 - (2013-2016) Department of Education and Learning (DEL) NI PhD Studentship, Ulster University.
 <br>
 <h2>Awards</h2>
+
 - (2015) Best Oral Presentation: Annual Translational Medicine (TMED7) Conference.
 
 - (2014) Best Poster Presentation: Irish Machine Vision and Image Processing (IMVIP) Conference.
