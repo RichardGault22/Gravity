@@ -10,9 +10,10 @@ category: "Teaching"
 ---
 
 <h2> CSC1020: Programming</h2>
+<h4></h4>
 
   - Introduction to core programming concepts. Course Implemented in Java.
----  
+=====  
 <h2> CSC2047: Theory of Computation </h2>
 <h4></h4>
   - Exploration of the core concepts of Computation Theory.
