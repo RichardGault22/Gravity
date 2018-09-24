@@ -18,7 +18,8 @@ category: "Teaching"
 <h2> CSC2047: Theory of Computation </h2>
 
 <h4> Supplementary Resources </h4>
-  The core texts for this module include
+
+The core texts for this module include
   
   - "Introduction to the Theory of Computation", Third edition (International edition), Author: Michael Sipser.
   
