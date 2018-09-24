@@ -14,7 +14,7 @@ category: "Teaching"
   - Introduction to core programming concepts. Course Implemented in Java.
 ---  
 <h2> CSC2047: Theory of Computation </h2>
-
+<h4></h4>
   - Exploration of the core concepts of Computation Theory.
   <h3> Supplementary Resources </h3>
   The core texts for this module include
