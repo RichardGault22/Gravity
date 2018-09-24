@@ -9,15 +9,14 @@ category: "Teaching"
 
 ---
 
-<h2> CSC1020: Programming</h2>
+<h3> CSC1020: Programming</h3>
 <h4></h4>
 
   - Introduction to core programming concepts. Course Implemented in Java.
 =====  
 <h2> CSC2047: Theory of Computation </h2>
-<h4></h4>
-  - Exploration of the core concepts of Computation Theory.
-  <h3> Supplementary Resources </h3>
+
+<h4> Supplementary Resources </h4>
   The core texts for this module include
   
   - "Introduction to the Theory of Computation", Third edition (International edition), Author: Michael Sipser.
@@ -41,6 +40,6 @@ category: "Teaching"
   
 <h4> 1. Sets and Sequences </h4>
   
-  - Nice [video] introducting and working through examples on sets. **Note** we will not be using the *#* notation for the size of a set.
+  - Nice [video] introducing sets with worked examples. **Note** we will not be using the *#* notation for the size of a set.
 
 [video]: https://www.youtube.com/watch?v=yCwnifwVjIg
