@@ -13,7 +13,8 @@ category: "Teaching"
 <h4></h4>
 
   - Introduction to core programming concepts. Course Implemented in Java.
-=====  
+
+
 <h2> CSC2047: Theory of Computation </h2>
 
 <h4> Supplementary Resources </h4>
