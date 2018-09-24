@@ -22,7 +22,7 @@ category: "Teaching"
   - "Introduction to the Theory of Computation", Third edition (International edition), Author: Michael Sipser.
   
   - "The Nature of Computation", Christopher Moore and Stephan Mertens, Oxford University  Press
-  <h4> 0. Introduction </h4>
+<h4> 0. Introduction </h4>
   
   - The [Turing Tumble] and [demonstrations] of the Turing Tumble
   
@@ -37,3 +37,9 @@ category: "Teaching"
   - Academic & student affairs-> [Examinations & Assessment] and see "Undergraduate Conceptual Equivalents Scale"
   
   [Examinations & Assessment]: https://www.qub.ac.uk/directorates/AcademicStudentAffairs/AcademicAffairs/ExaminationsandAssessment/MarkSchemesandClassifications/
+  
+<h4> 1. Sets and Sequences </h4>
+  
+  - Nice [video] introducting and working through examples on sets. **Note** we will not be using the *#* notation for the size of a set.
+
+[video]: https://www.youtube.com/watch?v=yCwnifwVjIg
