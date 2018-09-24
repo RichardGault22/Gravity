@@ -44,4 +44,4 @@ The core texts for this module include
   
   - Nice [video] introducing sets with worked examples. **Note** we will not be using the *#* notation for the size of a set.
 
-[video]: https://www.youtube.com/watch?v=yCwnifwVjIg
+[video]: https://youtu.be/yCwnifwVjIg
