@@ -45,3 +45,15 @@ The core texts for this module include
   - Nice [video] introducing sets with worked examples. **Note** we will not be using the *#* notation for the size of a set.
 
 [video]: https://youtu.be/yCwnifwVjIg?t=1
+
+<h4> 2. Functions </h4>
+
+  - Video introducing functions with some worked [examples] including composite functions.
+  
+  [examples]: https://www.youtube.com/watch?v=OixshZzH8t0
+  
+  - Video introducing the concepts of [Injective, Surjective, bijective and inverse functions] (with examples).
+  
+  [Injective, Surjective, bijective and inverse functions]:https://www.youtube.com/watch?v=bZred_Ksz2k&t=7s
+  
+  - See also, Introduction to the Theary of Computation (Sipser, 2nd Edition), Pg 7+8 (including examples 0.8, 0.9).
