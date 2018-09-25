@@ -56,4 +56,4 @@ The core texts for this module include
   
   [Injective, Surjective, bijective and inverse functions]:https://www.youtube.com/watch?v=bZred_Ksz2k&t=7s
   
-  - See also, Introduction to the Theary of Computation (Sipser, 2nd Edition), Pg 7+8 (including examples 0.8, 0.9).
+  - See also, Introduction to the Theory of Computation (Sipser, 2nd Edition), Pg 7+8 (including examples 0.8, 0.9).
