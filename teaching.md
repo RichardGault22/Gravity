@@ -74,6 +74,7 @@ The core texts for this module include
   
   [truth tables]: https://www.youtube.com/watch?v=9fX6n0_MDic
   
-  -Video explaining [predicate logic].
+  - Video explaining [predicate logic].
   
   [predicate logic]: https://www.youtube.com/watch?v=gyoqX0W-NH4
+  
