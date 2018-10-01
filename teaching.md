@@ -67,9 +67,9 @@ The core texts for this module include
   
   [Propositional Calculus]: https://www.youtube.com/watch?v=itrXYg41-V0
   
-  - Video illustrating proofs using [truth tables].
+  - Video illustrating proofs using   [truth tables]:.
   
-  [turth tables]: https://www.youtube.com/watch?v=9fX6n0_MDic
+  [truth tables]: https://www.youtube.com/watch?v=9fX6n0_MDic
   
   -Video explaining [predicate logic].
   
