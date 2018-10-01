@@ -61,7 +61,7 @@ The core texts for this module include
 <h4> 3. Logic </h4>
   - [Notes] from Oxford University (Philosophy) on Logic, Propositional and Predicate Calculus with some worked examples,good guide to deriving propositions and predicates from natural language statements. (Sections 9.4,10,15-19 are not necessary for CSC2047 but are interesting topics related to our course material).
   
-  [Notes]: http://philosophy.hertford.ox.ac.uk/logic/Logic_2007_b.doc
+  [Notes]: http://philosophy.hertford.ox.ac.uk/logic/ 
   
   - Video introducing [Propositional Calculus].
   
