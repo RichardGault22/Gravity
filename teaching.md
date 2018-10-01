@@ -63,6 +63,7 @@ The core texts for this module include
   
   [here]: http://philosophy.hertford.ox.ac.uk/logic/Logic_2007_b.doc 
   
+  
   - Video introducing [Propositional Calculus].
   
   [Propositional Calculus]: https://www.youtube.com/watch?v=itrXYg41-V0
