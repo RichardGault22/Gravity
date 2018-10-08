@@ -72,7 +72,7 @@ The core texts for this module include
   
   - Video illustrating proofs using [truth tables].
   
-  [truth tables]: https://www.youtube.com/watch?v=9fX6n0_MDic
+  [truth tables]: https://www.youtube.com/watch?v=9fX6n0_MDic 
   
   - Video explaining [predicate logic].
   
@@ -93,5 +93,9 @@ The core texts for this module include
   - [Overview of trees], traversing trees and how program a problem using a tree.
   
   [Overview of trees]: https://www.youtube.com/watch?v=oSWTXtMglKE
+  
+  - Proof of Leonard-Euler Solution to [Konigsberg bridge problem].
+  
+  [Konigsberg bridge problem]: https://www.maa.org/press/periodicals/convergence/leonard-eulers-solution-to-the-konigsberg-bridge-problem
   
   
