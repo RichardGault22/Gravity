@@ -78,3 +78,19 @@ The core texts for this module include
   
   [predicate logic]: https://www.youtube.com/watch?v=gyoqX0W-NH4
   
+<h4> 4. Graphs and Trees </h4>
+
+  - Introduction to the Theory of Computation - Sipser pages 10-12.
+  
+  - [Introduction] to many types of Graphs.
+  
+  [Introduction]: https://www.youtube.com/watch?v=HkNdNpKUByM
+  
+  - [Overview of trees], traversing trees and how program a problem using a tree.
+  
+  [Overview of trees]: https://www.youtube.com/watch?v=oSWTXtMglKE
+  
+ 
+  - MIT Mathematics for Computer Science lecture on [Graph Theory] and Colouring of a graph.
+  
+  [Graph Theory]: https://youtu.be/h9wxtqoa1jY?t=509
