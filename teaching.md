@@ -110,6 +110,14 @@ The core texts for this module include
   
   - MIT lecture on [proof by induction].
   
-  [proof by induction]: https://www.youtube.com/watch?v=NuGDkmwEObM
+  [proof by induction]: https://www.youtube.com/watch?v=z8HKWUWS-lA
   
+ - Overview of [proof by contradiction]
+ 
+ [proof by contradiction]: https://www.youtube.com/watch?v=sRDwsfNDXak
+ 
+ - Something different: [proof by contraposition].
+ 
+ [proof by contraposition]: https://www.youtube.com/watch?v=X-hJ7krLBn0
+ 
  
