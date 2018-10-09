@@ -98,4 +98,18 @@ The core texts for this module include
   
   [Konigsberg bridge problem]: https://www.maa.org/press/periodicals/convergence/leonard-eulers-solution-to-the-konigsberg-bridge-problem
   
+<h4> 5. Proofs </h4>
+
+  - Overview of "IFF" proofs with [exercises].
   
+  [exercises]: http://web.maths.unsw.edu.au/~jim/proofsch3.pdf
+  
+  - MIT lecture [introducing proofs].
+  
+  [introducing proofs]: https://youtu.be/L3LMbpZIKhQ?list=PLB7540DEDD482705B&t=448 
+  
+  - MIT lecture on [proof by induction].
+  
+  [proof by induction]: https://www.youtube.com/watch?v=NuGDkmwEObM
+  
+ 
