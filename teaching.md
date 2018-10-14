@@ -126,8 +126,7 @@ The core texts for this module include
   
   [concept of recursion]: https://youtu.be/FyHloXKnPWc
   
-  
-  -Some examples of how to [define a recursive function] from a sequence.
+  - Some examples of how to [define a recursive function] from a sequence.
   
   [define a recursive function]: https://youtu.be/bguje4yGTK0
   
