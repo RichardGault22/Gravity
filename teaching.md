@@ -120,4 +120,15 @@ The core texts for this module include
  
  [proof by contraposition]: https://www.youtube.com/watch?v=X-hJ7krLBn0
  
+ <h4> 6. Recursion </h4>
+ 
+  - Nice introduction to the [concept of recursion] in terms of programming.
+  
+  [concept of recursion]: https://youtu.be/FyHloXKnPWc
+  
+  -Some examples of how to [define a recursive function] from a sequence.
+  
+  [define a recursive function]: https://youtu.be/bguje4yGTK0
+  
+ 
  
