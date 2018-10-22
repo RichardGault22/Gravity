@@ -135,7 +135,7 @@ The core texts for this module include
  
   - Solid background introduction to Automata theory can be found in Introduction to the Theory of Computation - Sipser pages 31-40.
   
-  - Lectures introducing [Automata theory]. See parts 1-9 for DFA.
+  - Lectures introducing [Automata theory]. See parts 1-5 for DFA.
   
   [Automata theory]: https://www.youtube.com/watch?v=HyUK5RAJg1c&list=PLK_sH5jbkYciCyOTllsGyHVcHErHhtnZZ
   
