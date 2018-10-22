@@ -131,5 +131,12 @@ The core texts for this module include
   [define a recursive function]: https://youtu.be/bguje4yGTK0
   
  
+  <h4> 7. Deterministic Finite Automata </h4>
+ 
+  - Solid background introduction to Automata theory can be found in Introduction to the Theory of Computation - Sipser pages 31-40.
+  
+  - Lectures introducing [Automata theory]. See parts 1-9 for DFA.
+  
+  [Automata theory]: https://www.youtube.com/watch?v=HyUK5RAJg1c&list=PLK_sH5jbkYciCyOTllsGyHVcHErHhtnZZ
   
  
