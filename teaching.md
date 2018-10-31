@@ -139,4 +139,19 @@ The core texts for this module include
   
   [Automata theory]: https://www.youtube.com/watch?v=HyUK5RAJg1c&list=PLK_sH5jbkYciCyOTllsGyHVcHErHhtnZZ
   
- 
+  <h4> 8. Nondeterministic Finite Automata </h4>
+  
+  - Explanation on [power sets]
+  
+  [power sets]: https://www.youtube.com/watch?v=H5D6EAezsXQ 
+  
+  - Introduction in to [Nondeterministic Finite Automata] (MIT Prof lecturing).
+  
+  [Nondeterministic Finite Automata]:  https://youtu.be/ZNBNmxXKmUY?list=PLK_sH5jbkYciCyOTllsGyHVcHErHhtnZZ&t=424
+  
+  - See also [part 2], [3] and [4] of the same series.
+  
+  [part 2]: https://www.youtube.com/watch?v=lk3LHnM8SxA&list=PLK_sH5jbkYciCyOTllsGyHVcHErHhtnZZ&index=7
+  [3]: https://www.youtube.com/watch?v=pYoELTvm8Hg&list=PLK_sH5jbkYciCyOTllsGyHVcHErHhtnZZ&index=8
+  [4]: https://www.youtube.com/watch?v=p2Zp4NNJDeA&index=9&list=PLK_sH5jbkYciCyOTllsGyHVcHErHhtnZZ
+  
