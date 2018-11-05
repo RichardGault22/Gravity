@@ -165,5 +165,5 @@ The core texts for this module include
   
   [Another worked example]: https://www.youtube.com/watch?v=--CSVsFIDng
   
-  - Introduction to $\epsilon$ -NFA and proof of NFA-DFA equivalence found in Introduction to the Theory of Computation - Sipser pages 47-59.
+  - Introduction to ϵ-NFA and proof of NFA-DFA equivalence found in Introduction to the Theory of Computation - Sipser pages 47-59.
   
