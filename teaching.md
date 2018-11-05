@@ -139,7 +139,7 @@ The core texts for this module include
   
   [Automata theory]: https://www.youtube.com/watch?v=HyUK5RAJg1c&list=PLK_sH5jbkYciCyOTllsGyHVcHErHhtnZZ
   
-  <h4> 8. Nondeterministic Finite Automata </h4>
+  <h4> 8 and 9 Nondeterministic Finite Automata </h4>
   
   - Explanation on [power sets]
   
@@ -154,4 +154,16 @@ The core texts for this module include
   [part 2]: https://www.youtube.com/watch?v=lk3LHnM8SxA&list=PLK_sH5jbkYciCyOTllsGyHVcHErHhtnZZ&index=7
   [3]: https://www.youtube.com/watch?v=pYoELTvm8Hg&list=PLK_sH5jbkYciCyOTllsGyHVcHErHhtnZZ&index=8
   [4]: https://www.youtube.com/watch?v=p2Zp4NNJDeA&index=9&list=PLK_sH5jbkYciCyOTllsGyHVcHErHhtnZZ
+  
+  Below are supplementary resources for the second half of NFA.
+  
+  - Conversion of [NFA to DFA] worked example
+  
+  [NFA to DFA]: https://youtu.be/pYoELTvm8Hg?list=PLK_sH5jbkYciCyOTllsGyHVcHErHhtnZZ&t=270
+  
+  - [Another worked example] for converting NFA to DFA (NB. This video uses the notation 2^Q for the power set i.e. P(Q) )
+  
+  [Another worked example]: https://www.youtube.com/watch?v=--CSVsFIDng
+  
+  - Introduction to \epsilon -NFA and proof of NFA-DFA equivalence found in Introduction to the Theory of Computation - Sipser pages 47-59.
   
