@@ -167,3 +167,10 @@ The core texts for this module include
   
   - Introduction to ϵ-NFA and proof of NFA-DFA equivalence found in Introduction to the Theory of Computation - Sipser pages 47-59.
   
+  <h4> 10 and 11 Regular Languages and Regular Expressions </h4>
+  
+  - Background in to the origins of [regular languages and the notion of regular expressions].
+  
+  [regular languages and the notion of regular expressions]: https://www.maa.org/press/periodicals/convergence/regular-languages-and-finite-automata
+  
+  
