@@ -173,7 +173,7 @@ The core texts for this module include
   
   [regular languages and the notion of regular expressions]: https://www.maa.org/press/periodicals/convergence/regular-languages-and-finite-automata
   
-  - [Comprehensive lecture on Regular Expressions] and constructing NFA/DFA for languages derived from the union/concatenation/star operator applied to a regular language (UC Davis). See 50.34 for proof of RE equivalence to regular langauges including the construction of NFA from RE and vice versa.
+  - [Comprehensive lecture on Regular Expressions] and constructing NFA/DFA for languages derived from the union/concatenation/star operator applied to a regular language (UC Davis). See 50.34 for proof of RE equivalence to regular languages including the construction of NFA from RE and vice versa.
   
   [Comprehensive lecture on Regular Expressions]: https://www.youtube.com/watch?v=B72XAeFO9ZE&list=PLslgisHe5tBM8UTCt1f66oMkpmjCblzkt&index=3
   
