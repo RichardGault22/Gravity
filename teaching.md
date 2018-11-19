@@ -185,7 +185,7 @@ The core texts for this module include
   
   [pumping lemma]: https://youtu.be/d_Rc4-1Pzbc?t=3299 
   
-  - Lectures on Non-regular languages, examples and the pumping lemma [part 1], [part 2], [part 3], [part 4] and [part 5] (Remaining lectures in this series are also very useful.
+  - Lectures on Non-regular languages, examples and the pumping lemma [part 1], [part 2], [part 3], [part 4] and [part 5] - Remaining lectures in this series are also very useful.
   
   [part 1]: https://youtu.be/sqkcpQw-78A   
   [part 2]: https://youtu.be/GVQDBpnFMMk
