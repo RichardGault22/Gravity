@@ -181,7 +181,7 @@ The core texts for this module include
   
   <h4> 12 Non-Regular Langauges </h4>
   
-  -Introduction to the [pumping lemma] and examples.
+  - Introduction to the [pumping lemma] and examples.
   
   [pumping lemma]: https://youtu.be/d_Rc4-1Pzbc?t=3299 
   
