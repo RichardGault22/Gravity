@@ -178,3 +178,18 @@ The core texts for this module include
   [Comprehensive lecture on Regular Expressions]: https://www.youtube.com/watch?v=B72XAeFO9ZE&list=PLslgisHe5tBM8UTCt1f66oMkpmjCblzkt&index=3
   
   - Regular Expressions (including proofs and examples) Introduction to the Theory of Computation - Sipser pages 63-76.
+  
+  <h4> 12 Non-Regular Langauges </h4>
+  
+  -Introduction to the [pumping lemma] and examples.
+  
+  [pumping lemma]: https://youtu.be/d_Rc4-1Pzbc?t=3299 
+  
+  - Lectures on Non-regular languages, examples and the pumping lemma [part 1], [part 2], [part 3], [part 4] and [part 5] (Remaining lectures in this series are also very useful.
+  
+  [part 1]: https://youtu.be/sqkcpQw-78A   
+  [part 2]: https://youtu.be/GVQDBpnFMMk
+  [part 3]: https://youtu.be/4JSDx3M-B6g?list=PL601FC994BDD963E4
+  [part 4]: https://youtu.be/z81k09Ebtuk?list=PL601FC994BDD963E4
+  
+  [part 5]: https://youtu.be/D0mapwlz_1E?list=PL601FC994BDD963E4
