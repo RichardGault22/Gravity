@@ -191,5 +191,16 @@ The core texts for this module include
   [part 2]: https://youtu.be/GVQDBpnFMMk
   [part 3]: https://youtu.be/4JSDx3M-B6g?list=PL601FC994BDD963E4
   [part 4]: https://youtu.be/z81k09Ebtuk?list=PL601FC994BDD963E4
-  
   [part 5]: https://youtu.be/D0mapwlz_1E?list=PL601FC994BDD963E4
+
+  <h4> 13 Pushdown automata (PDA) </h4>
+  
+  - Clear summary of Pushdown automata (turnstile notation not used in this chapter) found [here].
+  
+  [here]: https://www.tutorialspoint.com/automata_theory/pushdown_automata_introduction.htm
+  
+  - Introductory [lecture on Pushdown automata] (note that the notation is different here: the transitions we will be using in this module will be <input> , <pop from stack> → <push to stack> and the base symbol in our course will be $ rather than Z as used in this video)
+  
+  [lecture on Pushdown automata]: https://youtu.be/AbbZVvQkees
+  
+  
