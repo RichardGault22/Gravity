@@ -199,7 +199,7 @@ The core texts for this module include
   
   [here]: https://www.tutorialspoint.com/automata_theory/pushdown_automata_introduction.htm
   
-  - Introductory [lecture on Pushdown automata] (note that the notation is different here: the transitions we will be using in this module will be "input" , "pop from stack" → "push to stack" and the base symbol in our course will be $ rather than Z as used in this video)
+  - Introductory [lecture on Pushdown automata] (note that the notation is different here: the transitions we will be using in this module will be {"input" , "pop from stack" → "push to stack"} and the base symbol in our course will be $ rather than Z as used in this video)
   
   [lecture on Pushdown automata]: https://youtu.be/AbbZVvQkees
   
