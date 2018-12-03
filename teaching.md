@@ -203,4 +203,17 @@ The core texts for this module include
   
   [lecture on Pushdown automata]: https://youtu.be/AbbZVvQkees
   
+  <h4> 14 Context-free grammars and Context Free Languages </h4>
+  
+  - [Introducing the formal definitions] of CFGs through CFLs.
+  
+  [Introducing the formal definitions]: https://youtu.be/JJ0DVb9sDVw?list=PLslgisHe5tBM8UTCt1f66oMkpmjCblzkt&t=3619
+  
+  - Introducing Grammars through [examples] and designing CFG **Highly recommeded**. (Note e is used instead of 𝜖, we will be using 𝜖 in our module)
+  
+  [examples]: https://youtu.be/XnPQElUMRkg 
+  
+  - [Worked example] of deriving CFGs and strings from CFGs.
+  
+  [Worked example]: https://youtu.be/1DV6ErCnvNg
   
