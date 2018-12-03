@@ -209,7 +209,7 @@ The core texts for this module include
   
   [Introducing the formal definitions]: https://youtu.be/JJ0DVb9sDVw?list=PLslgisHe5tBM8UTCt1f66oMkpmjCblzkt&t=3619
   
-  - Introducing Grammars through [examples] and designing CFG **Highly recommeded**. (Note e is used instead of 𝜖, we will be using 𝜖 in our module)
+  - Introducing Grammars through [examples] and designing CFG - **Highly recommeded**. (Note e is used instead of 𝜖, we will be using 𝜖 in our module)
   
   [examples]: https://youtu.be/XnPQElUMRkg 
   
