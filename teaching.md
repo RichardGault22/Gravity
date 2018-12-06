@@ -217,3 +217,8 @@ The core texts for this module include
   
   [Worked example]: https://youtu.be/1DV6ErCnvNg
   
+<h4> 15 Chomsky Normal Form </h4>
+
+-Lecture notes on CNF (see [worked example 4.3] for a good explanation of the conversion steps).
+
+[worked example 4.3]: https://courses.engr.illinois.edu/cs373/sp2010/lectures/lect_21.pdf
