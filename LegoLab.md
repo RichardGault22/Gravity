@@ -9,6 +9,7 @@ category: "LegoLab"
 <h2>Queen's University, EEECS Lego Lab</h2>
 <h2>Development Week Projects</h2>
   - Introduction to [Arduino].
+    
     [Arduino]: https://learn.adafruit.com/category/learn-arduino
   
   - Getting Started with [Raspberry Pi].
